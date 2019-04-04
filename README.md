@@ -1,2 +1,0 @@
-# ArrayManiputor
-Created with CodeSandbox
